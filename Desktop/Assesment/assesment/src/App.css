@@ -1,0 +1,40 @@
+
+.inputbox{
+  margin-top: 10px;
+  text-align: center;
+  font-weight: bold;
+}
+.navbar{
+ text-align: center;
+ font-size: 40px;
+ background-color: rgb(242, 235, 236);
+}
+.inputbox input{
+  border: 1px solid grey;
+  margin-right: 20px;
+  margin-top: 20px;
+  border-radius: 50px;
+
+}
+.cards{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+ width: 350px;
+ height: 550px;
+ margin: auto;
+ border-radius: 40px;
+ margin-top: 50px;
+ padding: 20px;
+ background-color: antiquewhite;
+}
+.cards img{
+  border-radius: 40px;
+}
+.details{
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.details h2,p{
+ font-weight: bolder;
+ color: black;
+}
+
